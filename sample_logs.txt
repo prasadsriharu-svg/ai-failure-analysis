@@ -1,0 +1,15 @@
+Build started...
+Step 1: Installing dependencies
+Error: npm ERR! missing script: start
+Build failed at dependency installation.
+Running tests...
+Test suite: UserAuthentication
+Error: AssertionError - Expected status 200 but got 500
+Test suite failed at test_user_login
+Build failed.
+Connecting to database...
+Error: SQLSTATE[08001]: [Microsoft][ODBC Driver] Cannot open database requested by the login.
+Pipeline aborted.
+Step 3: Uploading artifacts
+Error: Access denied. User does not have permission to write to Blob storage.
+Pipeline stopped.
